@@ -18,7 +18,7 @@ Make sure you have the following installed:
 
 ```shell
 git clone https://github.com/your_username/continuous-signal-convolution.git
-
+```
 2. Launch Jupyter Notebook or JupyterLab.
 
 ```shell
