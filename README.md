@@ -1,4 +1,5 @@
-Continuous Time Signal Convolution Code
+#Continuous Time Signal Convolution Code
+
 This repository contains a Python code implementation for convolving continuous time signals, both in 1D and 2D. The code allows you to perform convolution between two signals without using prebuilt functions and provides the ability to plot the input signals as well as the result of the convolution using IPython Notebook or Jupyter.
 
 Prerequisites
